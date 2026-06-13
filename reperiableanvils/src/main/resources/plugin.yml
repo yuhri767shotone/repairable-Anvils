@@ -1,0 +1,4 @@
+name: reperiableanvils
+version: '1.0-SNAPSHOT'
+main: org.HomeDragonjava.reperiableanvils.Reperiableanvils
+api-version: '1.21'
